@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Mr_Dzawara',
+  packname: 'Knight',
   author: 'Bot',
-  botName: "Mr_Dzawara",
+  botName: "Knight Bot",
   botOwner: 'Mr_Dzawara', // Your name
-  ownerNumber: '263781974365', //Your number
+  ownerNumber: '+263781974365', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
